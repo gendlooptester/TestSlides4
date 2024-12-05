@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "generate": "reveal-md slides.md --static _site",
+    "serve": "reveal-md slides.md"
+  },
+  "dependencies": {
+    "reveal-md": "^6.1.4"
+  }
+}
